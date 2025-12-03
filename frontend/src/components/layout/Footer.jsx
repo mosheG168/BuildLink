@@ -106,7 +106,7 @@ export default function Footer() {
             <IconButton
               aria-label="GitHub"
               size="small"
-              href="https://github.com/dashboard"
+              href="https://github.com/mosheG168"
               target="_blank"
               rel="noopener noreferrer"
             >
