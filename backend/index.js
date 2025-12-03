@@ -36,6 +36,7 @@ app.use(
     credentials: true,
     methods: "GET,PUT,POST,DELETE,PATCH,OPTIONS",
     allowedHeaders: "Content-Type, Accept, Authorization, x-auth-token",
+    exposedHeaders: "x-auth-token",
   })
 );
 
